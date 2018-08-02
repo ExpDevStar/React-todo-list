@@ -3,11 +3,12 @@
 Start with the starter code in script.js.
 
 Do `npm install` to get and run `http-server`
-(you will need it so that script.js works correctly)
+(you will need it so that script.jsx works correctly)
 
-##### Create a todo list app:
+#### Create a todo list app:
+
 ##### Add:
-- a button click handler that takes what is in the input, removes it and `push`es it into the list.
+- a button click handler that takes what is in the input, removes it from the input and `push`es it into the list.
 - write the code that renders the list
 
 #### Further
@@ -18,3 +19,18 @@ Show the validation error to the user
 
 #### Further
 Write the code that takes things out of the list.
+
+#### Further
+Write a todo list item component that edits itself and take itself out of the list when you click on a delete button
+
+#### Further
+Create the ability to move todo items into a `done` list.
+
+#### Further
+Use `moment.js` npm library to add dates to the todo list.
+
+#### Further
+When you add an item to the list, have it expire after a certain time, or automatically move it into the done list.
+
+#### Further
+Add the ability to create different parent lists and add items to any of those lists.
