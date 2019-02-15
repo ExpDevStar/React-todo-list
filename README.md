@@ -14,7 +14,7 @@ Do `npm install` to get and run `http-server`
 - write the code that renders the list
 
 #### Further
-Create a length validation on the input.
+Create a length validation on the input. (Ex., must be more than 1 character and less than 200 characters)
 
 #### Further
 Show the validation error to the user
