@@ -23,7 +23,7 @@ Show the validation error to the user
 Write the code that takes things out of the list.
 
 #### Further
-Write a todo list item component that edits itself and take itself out of the list when you click on a delete button
+Write a todo list item component that edits it's content.
 
 #### Further
 Create the ability to move todo items into a `done` list.
