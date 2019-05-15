@@ -23,16 +23,4 @@ Show the validation error to the user
 Write the code that takes things out of the list.
 
 #### Further
-Write a todo list item component that edits it's content.
-
-#### Further
-Create the ability to move todo items into a `done` list.
-
-#### Further
 Use `moment.js` npm library to add dates to the todo list.
-
-#### Further
-When you add an item to the list, have it expire after a certain time, or automatically move it into the done list.
-
-#### Further
-Add the ability to create different parent lists and add items to any of those lists.
